@@ -25,6 +25,10 @@ input{
     border-radius: 20px;
     text-align: center;
     padding: 8px 0;
+
+    &:hover{
+        background-color: #C4EEF2;
+    }
 }
 
 button{
@@ -33,6 +37,10 @@ button{
     cursor: pointer;
     margin: 5px;
     border-radius: 5px;
+
+    &:hover{
+        background-color: #C4EEF2;
+    }
 }
 
 div{
